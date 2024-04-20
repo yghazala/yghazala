@@ -6,11 +6,10 @@ I’m a curious teen interested in cyber security in general and i'm keen on exp
 
 I also enjoy working on gameservers and setting them up, alongside also modding some of these games.
 
-# Stats
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=oSynq&show_icons=true&theme=shadow_red" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSynq&show_icons=true&theme=shadow_red&hide_progress=true" />
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oSynq&show_icons=true&theme=shadow_red" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSynq&show_icons=true&theme=shadow_red&hide_progress=true" />
 </a>
