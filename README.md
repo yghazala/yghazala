@@ -2,9 +2,13 @@
 
 # Nice to meet you! 👋
 
-I’m a curious teen interested in cyber security in general and i'm keen on exploring how certain vulnerabilities could lead to one another.
+Hey there, I'm oSynq — a curious teen who's really into cyber security and computer stuff. I love digging into code and figuring out how to make things work better and safer. Whether it's learning about how to keep my devices secure or messing around with game mods, I'm always up for a challenge.
 
-I also enjoy working on gameservers and setting them up, alongside also modding some of these games.
+Speaking of games, that's another big hobby of mine. I enjoy setting up game servers and tweaking games to make them more fun or interesting. It's cool to see how you can change things up and create new experiences for yourself and your friends.
+
+And when I'm not glued to my computer screen, you might catch me at the karting track. I've got a thing for karting — there's just something thrilling about speeding around the track, maneuvering through tight turns and competing with friends for the fastest lap.
+
+So yeah, whether I'm cracking codes, tweaking games, or karting at the track, you can bet I'm always up to something...
 
 
 ---
