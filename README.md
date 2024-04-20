@@ -10,6 +10,8 @@ And when I'm not glued to my computer screen, you might catch me at the karting 
 
 So yeah, whether I'm cracking codes, tweaking games, or karting at the track, you can bet I'm always up to something...
 
+NOTE: I also mess around a lot, so you might find some interesting things in my repositories. 👀
+
 
 ---
 
