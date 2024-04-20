@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Hey!%20I'm%20oSynq&fontColor=9745f5&fontAlignY=50&animation=twinkling)
 
-# About me
+# Nice to meet you! 👋
 
 I’m a curious teen interested in cyber security in general and i'm keen on exploring how certain vulnerabilities could lead to one another.
 
