@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Hey!%20I'm%20oSynq&fontColor=FA6545&descAlign=50&descAlignY=80&animation=twinkling&textBg=false&section=header&fontAlign=50&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Hey!%20I'm%20oSynq&fontColor=FA6545&fontAlignY=50&animation=twinkling)
 
 # About me
 
