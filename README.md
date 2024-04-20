@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Hey!%20I'm%20oSynq&fontColor=FA6545&fontAlignY=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=90&text=Hey!%20I'm%20oSynq&fontColor=9745f5&fontAlignY=50&animation=twinkling)
 
 # About me
 
@@ -10,6 +10,6 @@ I also enjoy working on gameservers and setting them up, alongside also modding 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oSynq&show_icons=true&theme=shadow_red" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSynq&show_icons=true&theme=shadow_red&hide_progress=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=oSynq&show_icons=true&theme=midnight-purple" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oSynq&show_icons=true&theme=midnight-purple&hide_progress=true" />
 </a>
