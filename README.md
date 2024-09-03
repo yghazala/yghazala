@@ -19,4 +19,4 @@ I'm Yousef — a curious teen who's really into cyber security and computer stuf
 [![](https://visitcount.itsvg.in/api?id=yghazala&icon=2&color=4)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://yghazala.com/send$) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://yghazala.com/send$) 
