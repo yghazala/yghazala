@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Yousef — a curious teen who's really into cyber security and computer stuff. I love digging into code and figuring out how to make things work better and safer. Whether it's learning about how to keep my devices secure or messing around with game mods, I'm always up for a challenge.<br><br>Speaking of games, that's another big hobby of mine. I enjoy setting up game servers and tweaking games to make them more fun or interesting. It's cool to see how you can change things up and create new experiences for yourself and your friends.
+I'm Yousef — a curious teen who's really into computer stuff. I love digging into code and figuring out how to make things work better and safer. Whether it's learning about how to keep my devices secure or messing around with game mods, I'm always up for a challenge.<br><br>Speaking of games, that's another big hobby of mine. I enjoy setting up game servers and tweaking games to make them more fun or interesting. It's cool to see how you can change things up and create new experiences for yourself and your friends.
 
 
 ## 🌐 Socials:
